@@ -1,6 +1,10 @@
 {
-  "createdAt": "2023-04-26T21:05:19.576Z",
-  "name": "Scripts",
+  "assets": {
+    "Arma": {
+      "enabled": true,
+      "restartOnChange": true
+    }
+  },
   "serverUpdateChannel": "latest",
   "systemResources": [
     "basic-gamemode",
@@ -15,6 +19,7 @@
     "webpack",
     "yarn"
   ],
-  "assets": {},
+  "createdAt": "2023-04-26T21:05:19.576Z",
+  "name": "Scripts",
   "variables": {}
 }
