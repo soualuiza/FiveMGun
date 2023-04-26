@@ -1,0 +1,20 @@
+{
+  "createdAt": "2023-04-26T21:05:19.576Z",
+  "name": "Scripts",
+  "serverUpdateChannel": "latest",
+  "systemResources": [
+    "basic-gamemode",
+    "map-skater",
+    "chat",
+    "playernames",
+    "mapmanager",
+    "spawnmanager",
+    "sessionmanager",
+    "baseevents",
+    "hardcap",
+    "webpack",
+    "yarn"
+  ],
+  "assets": {},
+  "variables": {}
+}
